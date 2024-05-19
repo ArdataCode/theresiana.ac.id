@@ -1,0 +1,1317 @@
+{
+    "manifest_version": "1.0.20",
+    "title": "Campusa",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faculty Detail",
+            "screenshot": "screenshots\/faculty-detail.jpg",
+            "source": "templates\/faculty-detail.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/faculty-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Event",
+            "screenshot": "screenshots\/event.jpg",
+            "source": "templates\/event.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/event\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Campus Life Detail",
+            "screenshot": "screenshots\/campus-life-detail.jpg",
+            "source": "templates\/campus-life-detail.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/campus-life-detail\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Campus Life",
+            "screenshot": "screenshots\/campus-life.jpg",
+            "source": "templates\/campus-life.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/campus-life\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Staff",
+            "screenshot": "screenshots\/staff.jpg",
+            "source": "templates\/staff.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/staff\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Faculty",
+            "screenshot": "screenshots\/faculty.jpg",
+            "source": "templates\/faculty.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/faculty\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/template-kit\/home\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Error 404",
+            "screenshot": "screenshots\/error-404.jpg",
+            "source": "templates\/error-404.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/?elementor_library=error-404",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/template-kit.rootlayers.com\/campusa\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.3.1",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.3.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "university-students-studying-together-PGUHBPW.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/university-students-studying-together-PGUHBPW-800x600.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 89320,
+            "dimensions": [
+                1000,
+                750
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PGUHBPW"
+        },
+        {
+            "filename": "Rectangle-5.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Rectangle-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/campus-life-detail.json",
+                    "name": "Campus Life Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 659,
+            "dimensions": [
+                30,
+                30
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Rectangle-5.jpg"
+        },
+        {
+            "filename": "library-background-from-white-bookshelves-with-boo-TLNGA4V.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/library-background-from-white-bookshelves-with-boo-TLNGA4V-800x399.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 106651,
+            "dimensions": [
+                1012,
+                505
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TLNGA4V"
+        },
+        {
+            "filename": "students-talking-AANAYM7.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/students-talking-AANAYM7-800x531.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 65062,
+            "dimensions": [
+                1000,
+                664
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AANAYM7"
+        },
+        {
+            "filename": "library-designed-by-zaha-hadid-in-new-campus-of-th-S753HUL.jpeg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/library-designed-by-zaha-hadid-in-new-campus-of-th-S753HUL-800x534.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/campus-life-detail.json",
+                    "name": "Campus Life Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/error-404.json",
+                    "name": "Error 404"
+                }
+            ],
+            "filesize": 84160,
+            "dimensions": [
+                1011,
+                675
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-S753HUL"
+        },
+        {
+            "filename": "geography.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/geography.png",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3531,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "certificate.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/certificate.png",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/campus-life-detail.json",
+                    "name": "Campus Life Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2449,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "class.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/class.png",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1243,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "globe.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/globe.png",
+            "templates": [
+                {
+                    "source": "templates\/faculty-detail.json",
+                    "name": "Faculty Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3277,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "creative-students-A27YFWY.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/creative-students-A27YFWY-800x534.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 72919,
+            "dimensions": [
+                1000,
+                667
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A27YFWY"
+        },
+        {
+            "filename": "Mask-Group-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Mask-Group-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 23582,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6LYRQ3W"
+        },
+        {
+            "filename": "Mask-Group-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Mask-Group-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 17239,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YGK34TW"
+        },
+        {
+            "filename": "Mask-Group-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Mask-Group-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 20502,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-AANAYM7"
+        },
+        {
+            "filename": "Mask-Group.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Mask-Group.jpg",
+            "templates": [
+                {
+                    "source": "templates\/event.json",
+                    "name": "Event"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 27259,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-A27YFWY"
+        },
+        {
+            "filename": "mobile-students-6LYRQ3W.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/mobile-students-6LYRQ3W-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/campus-life-detail.json",
+                    "name": "Campus Life Detail"
+                },
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                }
+            ],
+            "filesize": 59581,
+            "dimensions": [
+                1000,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6LYRQ3W"
+        },
+        {
+            "filename": "Rectangle-4.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Rectangle-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/campus-life-detail.json",
+                    "name": "Campus Life Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1610,
+            "dimensions": [
+                100,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Rectangle-4.jpg"
+        },
+        {
+            "filename": "Rectangle-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Rectangle-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/campus-life-detail.json",
+                    "name": "Campus Life Detail"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                },
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1609,
+            "dimensions": [
+                100,
+                340
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/Rectangle-3.jpg"
+        },
+        {
+            "filename": "specialization.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/specialization.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                }
+            ],
+            "filesize": 1544,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "discuss.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/discuss.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 2117,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "painting.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/painting.png",
+            "templates": [
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                }
+            ],
+            "filesize": 3614,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "bag.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/bag.png",
+            "templates": [
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                }
+            ],
+            "filesize": 2031,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "ink.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/ink.png",
+            "templates": [
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                }
+            ],
+            "filesize": 1901,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "biology.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/biology.png",
+            "templates": [
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 1963,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "sport.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/sport.png",
+            "templates": [
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3203,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "students-and-teacher-YGK34TW.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/students-and-teacher-YGK34TW-800x532.jpg",
+            "templates": [
+                {
+                    "source": "templates\/campus-life.json",
+                    "name": "Campus Life"
+                },
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 47713,
+            "dimensions": [
+                1000,
+                665
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-YGK34TW"
+        },
+        {
+            "filename": "Mask-Group-4.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/Mask-Group-4.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 240493,
+            "dimensions": [
+                450,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-professor-smoking-a-pipe-and-reading-RM4E52Y"
+        },
+        {
+            "filename": "Mask-Group.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/Mask-Group.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 306539,
+            "dimensions": [
+                450,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/professor-by-blackboard-747HCN7"
+        },
+        {
+            "filename": "Mask-Group-5.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/Mask-Group-5.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 246833,
+            "dimensions": [
+                450,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-university-professor-in-library-K5ADP5C"
+        },
+        {
+            "filename": "Mask-Group-2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/Mask-Group-2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 284703,
+            "dimensions": [
+                450,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-grey-hair-professor-sitting-on-table-with--H2LKLD2"
+        },
+        {
+            "filename": "Mask-Group-3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/Mask-Group-3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 226348,
+            "dimensions": [
+                450,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/smiling-professor-sitting-in-a-classroom-P8FT3LM"
+        },
+        {
+            "filename": "Mask-Group-1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/Mask-Group-1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/staff.json",
+                    "name": "Staff"
+                }
+            ],
+            "filesize": 243014,
+            "dimensions": [
+                450,
+                600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/serious-professor-explaining-algebraic-formula-X32CPC2"
+        },
+        {
+            "filename": "pretty-student-J6G7MX9.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/pretty-student-J6G7MX9-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                }
+            ],
+            "filesize": 62509,
+            "dimensions": [
+                1000,
+                666
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-J6G7MX9"
+        },
+        {
+            "filename": "team3.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/team3.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 18589,
+            "dimensions": [
+                213,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "team2.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/team2.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 12583,
+            "dimensions": [
+                213,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "team1.jpg",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/team1.jpg",
+            "templates": [
+                {
+                    "source": "templates\/faculty.json",
+                    "name": "Faculty"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14512,
+            "dimensions": [
+                213,
+                224
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/collage-of-smiling-and-happy-multiethnic-people-LXVSPXR"
+        },
+        {
+            "filename": "study.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/study.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1590,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "logoipsum-logo-12.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/logoipsum-logo-12.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2445,
+            "dimensions": [
+                138,
+                30
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "logoipsum-logo-26.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/logoipsum-logo-26.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3003,
+            "dimensions": [
+                138,
+                36
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "logoipsum-logo-17.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/logoipsum-logo-17.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 2246,
+            "dimensions": [
+                127,
+                39
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "logoipsum-logo-33.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/logoipsum-logo-33.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3333,
+            "dimensions": [
+                160,
+                46
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "logoipsum-logo-27.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/logoipsum-logo-27.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                }
+            ],
+            "filesize": 3056,
+            "dimensions": [
+                154,
+                34
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/logoipsum.com"
+        },
+        {
+            "filename": "portrait-of-smiling-male-college-student-in-busy-c-GL7GYHD.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/portrait-of-smiling-male-college-student-in-busy-c-GL7GYHD.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 37515,
+            "dimensions": [
+                322,
+                400
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GL7GYHD"
+        },
+        {
+            "filename": "graduate.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/graduate.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2014,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "physics.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/physics.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3845,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "book.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/08\/book.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2070,
+            "dimensions": [
+                64,
+                64
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/university-icons-line-and-solid-BCX3VDN"
+        },
+        {
+            "filename": "logo-3.png",
+            "thumbnail_url": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 2659,
+            "dimensions": [
+                206,
+                34
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/template-kit.rootlayers.com\/campusa\/wp-content\/uploads\/sites\/31\/2021\/09\/logo-3.png"
+        }
+    ]
+}
